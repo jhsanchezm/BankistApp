@@ -9,4 +9,4 @@ The technologies used for this app:
 
 Important! ---> To interact with the web, just put [Username:js] and [Password: 1111]
 
-This webpage was made for academic and practical purpouse from the course "The Complete JavaScript Course 2022: From Zero to Expert!", by Jonas Schmedtmann"
+###### This webpage was made for academic and practical purpouse from the course "The Complete JavaScript Course 2022: From Zero to Expert!", by Jonas Schmedtmann"
